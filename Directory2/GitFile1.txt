@@ -1,1 +1,3 @@
 test Git 1
+
+project2/dir2
